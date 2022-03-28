@@ -41,7 +41,6 @@
         </a>
       </p>
     </td>
-    
     <td>
       <strong>Evelyn Arias</strong>
       <p align="center">
@@ -59,7 +58,6 @@
         </a>
       </p>
     </td>
-    
     <!-- Justo arriba de esta línea y debajo del </td> anterior, Inserta el <td> con tus datos -->
   </tr>
 </table>
