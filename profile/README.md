@@ -40,10 +40,26 @@
           <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
-    </td>    
+    </td>
     
+    <td>
+      <strong>Evelyn Arias</strong>
+      <p align="center">
+        <br>
+      <img src = "https://avatars.githubusercontent.com/u/56201433?v=4"  height="120" alt="Evelyn Arias">
+      </p>
+      <p align="center">
+        <br> Beta Microsoft <br> Learn Student Ambassador <br>
+        <br>
+        <a href = "https://github.com/earias12">
+          <img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href = "https://www.linkedin.com/in/evelynariasv/">
+          <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
     
-    <!-- Inserta justo arriba de esta línea el <td> con tus datos -->
-    
+    <!-- Justo arriba de esta línea y debajo del </td> anterior, Inserta el <td> con tus datos -->
   </tr>
 </table>
