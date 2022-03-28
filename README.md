@@ -45,6 +45,9 @@ Edita el README.md que está dentro de la carpeta de profile
 
 Y listo, solo manda tu pull request para que sea revisado y te podamos añadir en el repositorio original.
 
+**¿Quieres contribuir para mejorar o agregar mas cosas a este repositorio?**
+
+Adelante, haz fork a este proyecto y manda un **pull request** para poder revisarlo. No olvides agregar tu nombre en la lista de contribuidores.
 ¡Un saludo!
 ### Contribuidores
 [@manuosmx](https://github.com/manuosmx)
