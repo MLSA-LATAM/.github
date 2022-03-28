@@ -122,5 +122,27 @@ Sigue cada uno de los pasos de [ESTE LINK](https://github.com/MLSA-LATAM/Contrib
     </td>
     <!-- Justo arriba de esta línea y debajo del </td> anterior, Inserta el <td> con tus datos -->
   </tr>
+  <tr align="center">
+  <td>
+      <strong>Daniel Armas</strong>
+      <p align="center">
+        </br>
+        <a href="https://www.instagram.com/davidlazarof/">
+          <img src="https://avatars.githubusercontent.com/u/50346756?v=4"  height="120" alt="daniel692a">
+        </a>
+      </p>
+      <p align="center">
+        Beta Microsoft<br>Learn Student Ambassador</br>
+        <br><strong>CDMX, México</strong></br>
+        </br>
+        <a href="https://github.com/daniel692a">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+  </tr>
   <!-- P.D: Si ya son 4 personas en una fila, agregar otro <tr align="center"></tr> justo arriba de esta linea y seguir los mismas instrucciones de los <td>. Para que no se vea amontonado. -->
 </table>
