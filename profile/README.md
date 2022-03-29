@@ -2,6 +2,8 @@
 ## Bienvenidos a la Organización de MLSA Latinoamerica
 **Student Ambassadors** es un grupo global de líderes en el campus. Esta organización en GitHub será para alojar algunos proyectos de la comunidad  y quieran compartir con mas miembros o participantes en talleres/cursos/eventos.
 
+[https://mlsa-latam.github.io/.github/profile/](https://mlsa-latam.github.io/.github/profile/)
+
 Síguenos en nuestras redes sociales:
 - [Youtube MLSA LATAM](https://www.youtube.com/channel/UCmbg8KGKWJpiyn2OHyq2iBg)
 - [Facebook MLSA LATAM](https://www.facebook.com/MSFTStudentAmbassadorsAmericas)
@@ -10,7 +12,7 @@ Síguenos en nuestras redes sociales:
 
 **¿Quieres contribuir en la comunidad?**
 
-¡Excelente!
+**¡Excelente!**
 Sigue cada uno de los pasos de [ESTE LINK](https://github.com/MLSA-LATAM/Contribute_MLSA_LATAM_Spanish) para que puedas iniciar a colaborar con la comunidad.
 
 Tambien únete al equipo de MLSA Community para crear temas y hablar de proyectos en los cuales pueden llegar a colaborar mas personas. [AQUÍ](https://github.com/orgs/MLSA-LATAM/teams/mlsa-community).
@@ -19,29 +21,6 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
 ## ¡Conoce a las y los contribuidores! 👩🏻‍💻👩🏻‍💻👩🏻‍💻
 <table align="center">
   <tr align="center">
-    <!-- Abajo de esta linea, copia desde el <td> hasta el </td> y reemplazalo con tus datos
-    <td>
-      <strong>Tu Nombre</strong>
-      <p align="center">
-        <br>
-        <a href="https://Link_de_tu_perfil_de_red_social_favorita">
-          <img src="https://URL_de_tu_foto"  height="120" alt="Tu Nombre">
-        </a>
-      </p>
-      <p align="center">
-        [Hito] Microsoft<br> Learn Student Ambassador<br>
-        <br><strong>CDMX, México</strong><br>
-        <br>
-        <a href="https://github.com/TU_USUARIO_GitHub">
-          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
-        </a>
-        <a href="https://www.linkedin.com/in/TU_USUARIO_linkedin/">
-          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-        </a>
-      </p>
-    </td>
-    -->
-    <!-- Ejemplo-->
     <td>
       <strong>Manuel Ortiz</strong>
       <p align="center">
@@ -86,12 +65,12 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
       <strong>Vicente Guzmán</strong>
       <p align="center">
         <br>
-        <a href="https://vicenteguzman.com/">
+        <a href="https://twitter.com/luciomsp">
           <img src="https://avatars.githubusercontent.com/u/6353852?v=4"  height="120" alt="LucioMSP">
         </a>
       </p>
       <p align="center">
-        Microsoft<br>Most Valuable Professional<br>
+        Gold Microsoft<br>Learn Student Ambassador<br>
         <br><strong>CDMX, México</strong><br>
         <br>
         <a href="https://github.com/LucioMSP">
@@ -122,7 +101,6 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
         </a>
       </p>
     </td>
-    <!-- Justo arriba de esta línea y debajo del </td> anterior, Inserta el <td> con tus datos -->
   </tr>
   <tr align="center">
   <td>
@@ -134,13 +112,53 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
         </a>
       </p>
       <p align="center">
-        Beta Microsoft<br>Learn Student Ambassador</br>
-        <br><strong>CDMX, México. Actopan, Hgo.</strong></br>
-        </br>
+        Beta Microsoft<br>Learn Student Ambassador<br>
+        <br><strong>Hidalgo | CDMX, México</strong><br>
+        <br>
         <a href="https://github.com/daniel692a">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
         </a>
         <a href="https://www.linkedin.com/in/daniel692a">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <strong>Alejandra Pérez</strong>
+      <p align="center">
+        <br>
+        <a href="https://twitter.com/_aleepsy">
+          <img src="https://avatars.githubusercontent.com/u/7855169?v=4"  height="120" alt="aleepsy">
+        </a>
+      </p>
+      <p align="center">
+        Beta Microsoft<br> Learn Student Ambassador<br>
+        <br><strong>CDMX, México</strong><br>
+        <br>
+        <a href="https://github.com/aleepsy">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/apcastillo/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <strong>Daniel Castillo</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.softwareengdanielcasmx.me">
+          <img src="https://avatars.githubusercontent.com/u/60952744?s=400&u=0b8c6478647af6545c574ad2fbb34308fe982ca6&v=4"  height="120" alt="Tu Nombre">
+        </a>
+      </p>
+      <p align="center">
+        Beta Microsoft<br> Learn Student Ambassador<br>
+        <br><strong>CDMX, México</strong><br>
+        <br>
+        <a href="https://github.com/AMCDanyMX">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/danielmcastillo/">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
@@ -165,47 +183,9 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
         </a>
       </p>
     </td>
-    <td>
-      <strong>Alejandra Pérez</strong>
-      <p align="center">
-        </br>
-        <a href="https://twitter.com/_aleepsy">
-          <img src="https://avatars.githubusercontent.com/u/7855169?v=4"  height="120" alt="aleepsy">
-        </a>
-      </p>
-      <p align="center">
-        Beta Microsoft<br> Learn Student Ambassador</br>
-        <br><strong>CDMX, México</strong></br>
-        </br>
-        <a href="https://github.com/aleepsy">
-          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
-        </a>
-        <a href="https://www.linkedin.com/in/apcastillo/">
-          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-        </a>
-      </p>
-    </td>
-    
-     <td>
-      <strong>Daniel Castillo</strong>
-      <p align="center">
-        </br>
-        <a href="https://www.softwareengdanielcasmx.me">
-          <img src="https://avatars.githubusercontent.com/u/60952744?s=400&u=0b8c6478647af6545c574ad2fbb34308fe982ca6&v=4"  height="120" alt="Tu Nombre">
-        </a>
-      </p>
-      <p align="center">
-        Beta Microsoft<br> Learn Student Ambassador</br>
-        <br><strong>CDMX, México</strong></br>
-        </br>
-        <a href="https://github.com/AMCDanyMX">
-          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
-        </a>
-        <a href="https://www.linkedin.com/in/danielmcastillo/">
-          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-        </a>
-      </p>
-    </td>
+    <!-- Justo arriba de esta línea y debajo del </td> anterior, Inserta el <td> con tus datos -->
+  </tr>
+  <tr align="center">
   </tr>
   <!-- P.D: Si ya son 4 personas en una fila, agregar otro <tr align="center"></tr> justo arriba de esta linea y seguir los mismas instrucciones de los <td>. Para que no se vea amontonado. -->
 </table>
