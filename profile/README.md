@@ -13,6 +13,8 @@ Síguenos en nuestras redes sociales:
 ¡Excelente!
 Sigue cada uno de los pasos de [ESTE LINK](https://github.com/MLSA-LATAM/Contribute_MLSA_LATAM_Spanish) para que puedas iniciar a colaborar con la comunidad.
 
+Tambien únete al equipo de MLSA Community para crear temas y hablar de proyectos en los cuales pueden llegar a colaborar mas personas. [AQUÍ](https://github.com/orgs/MLSA-LATAM/teams/mlsa-community).
+
 ***Be a force for good-locally and globally***
 ## ¡Conoce a las y los contribuidores! 👩🏻‍💻👩🏻‍💻👩🏻‍💻
 <table align="center">
@@ -127,7 +129,7 @@ Sigue cada uno de los pasos de [ESTE LINK](https://github.com/MLSA-LATAM/Contrib
       <strong>Daniel Armas</strong>
       <p align="center">
         </br>
-        <a href="https://www.instagram.com/davidlazarof/">
+        <a href="https://www.instagram.com/daniel692a/">
           <img src="https://avatars.githubusercontent.com/u/50346756?v=4"  height="120" alt="daniel692a">
         </a>
       </p>
@@ -139,6 +141,26 @@ Sigue cada uno de los pasos de [ESTE LINK](https://github.com/MLSA-LATAM/Contrib
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
         </a>
         <a href="https://www.linkedin.com/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <strong>Anahi Sanabria</strong>
+      <p align="center">
+        </br>
+        <a href="https://www.instagram.com/anahi_s.u/">
+          <img src="https://avatars.githubusercontent.com/u/81058245?v=4"  height="120" alt="AnahiSU">
+        </a>
+      </p>
+      <p align="center">
+        Beta Microsoft<br>Learn Student Ambassador</br>
+        <br><strong>Cochabamba, Bolivia</strong></br>
+        </br>
+        <a href="https://github.com/AnahiSU">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/anah%C3%AD-sanabria-ugarte-5225a0211/">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
