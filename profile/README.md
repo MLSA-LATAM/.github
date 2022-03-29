@@ -13,7 +13,7 @@ Síguenos en nuestras redes sociales:
 ¡Excelente!
 Sigue cada uno de los pasos de [ESTE LINK](https://github.com/MLSA-LATAM/Contribute_MLSA_LATAM_Spanish) para que puedas iniciar a colaborar con la comunidad.
 
-Tamnbien únete al equipo de MLSA Community para crear temas y hablar de proyectos en los cuales pueden llegar a colaborar mas personas. [AQUÍ](https://github.com/orgs/MLSA-LATAM/teams/mlsa-community).
+Tambien únete al equipo de MLSA Community para crear temas y hablar de proyectos en los cuales pueden llegar a colaborar mas personas. [AQUÍ](https://github.com/orgs/MLSA-LATAM/teams/mlsa-community).
 
 ***Be a force for good-locally and globally***
 ## ¡Conoce a las y los contribuidores! 👩🏻‍💻👩🏻‍💻👩🏻‍💻
