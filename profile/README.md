@@ -185,6 +185,27 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
         </a>
       </p>
     </td>
+    
+     <td>
+      <strong>Daniel Castillo</strong>
+      <p align="center">
+        </br>
+        <a href="https://www.softwareengdanielcasmx.me">
+          <img src="https://avatars.githubusercontent.com/u/60952744?s=400&u=0b8c6478647af6545c574ad2fbb34308fe982ca6&v=4"  height="120" alt="Tu Nombre">
+        </a>
+      </p>
+      <p align="center">
+        Beta Microsoft<br> Learn Student Ambassador</br>
+        <br><strong>CDMX, México</strong></br>
+        </br>
+        <a href="https://github.com/AMCDanyMX">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/danielmcastillo/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
   </tr>
   <!-- P.D: Si ya son 4 personas en una fila, agregar otro <tr align="center"></tr> justo arriba de esta linea y seguir los mismas instrucciones de los <td>. Para que no se vea amontonado. -->
 </table>
