@@ -129,7 +129,7 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
       <strong>Daniel Armas</strong>
       <p align="center">
         </br>
-        <a href="https://www.instagram.com/davidlazarof/">
+        <a href="https://www.instagram.com/daniel692a/">
           <img src="https://avatars.githubusercontent.com/u/50346756?v=4"  height="120" alt="daniel692a">
         </a>
       </p>
