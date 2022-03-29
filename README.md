@@ -50,4 +50,4 @@ Y listo, solo manda tu pull request para que sea revisado y te podamos añadir e
 Adelante, haz fork a este proyecto y manda un **pull request** para poder revisarlo. No olvides agregar tu nombre en la lista de contribuidores.
 ¡Un saludo!
 ### Contribuidores
-[@manuosmx](https://github.com/manuosmx)
+- [@manuosmx](https://github.com/manuosmx)
