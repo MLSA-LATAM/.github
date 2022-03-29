@@ -134,13 +134,13 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
         </a>
       </p>
       <p align="center">
-        Beta Microsoft<br>Learn Student Ambassador<br>
-        <br><strong>CDMX, México</strong><br>
-        <br>
+        Beta Microsoft<br>Learn Student Ambassador</br>
+        <br><strong>CDMX, México. Actopan, Hgo.</strong></br>
+        </br>
         <a href="https://github.com/daniel692a">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
         </a>
-        <a href="https://www.linkedin.com/">
+        <a href="https://www.linkedin.com/in/daniel692a">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
