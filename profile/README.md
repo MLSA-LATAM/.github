@@ -153,7 +153,7 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
       </p>
       <p align="center">
         Beta Microsoft<br> Learn Student Ambassador<br>
-        <br><strong>CDMX, México</strong><br>
+        <br><strong>Zacatecas, México</strong><br>
         <br>
         <a href="https://github.com/AMCDanyMX">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
