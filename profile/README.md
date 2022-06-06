@@ -225,6 +225,27 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
         </a>
       </p>
     </td>
+    
+    <td>
+      <strong>Nicolas Chavez</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.instagram.com/nik.oding/">
+          <img src="https://photos.app.goo.gl/Pb87azsBB1tR1FWh9"  height="120" alt="Nicolas Chavez">
+        </a>
+      </p>
+      <p align="center">
+        Beta Microsoft<br>Learn Student Ambassador<br>
+        <br><strong>CDMX, México</strong><br>
+        <br>
+        <a href="https://github.com/NikoMagafi">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/nicolaschavezc/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
     <!-- Justo arriba de esta línea, inserta el <td> con tus datos -->
   </tr>
   <tr align="center">
