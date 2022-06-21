@@ -225,7 +225,6 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
         </a>
       </p>
     </td>
-    
     <td>
       <strong>Nicolas Chavez</strong>
       <p align="center">
