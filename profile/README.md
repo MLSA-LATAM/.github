@@ -230,7 +230,7 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
       <p align="center">
         <br>
         <a href="https://www.instagram.com/nik.oding/">
-          <img src="https://photos.app.goo.gl/Pb87azsBB1tR1FWh9"  height="120" alt="Nicolas Chavez">
+          <img src="https://avatars.githubusercontent.com/u/92340354?v=4"  height="120" alt="Nicolas Chavez">
         </a>
       </p>
       <p align="center">
