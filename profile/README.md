@@ -132,7 +132,7 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
         </a>
       </p>
       <p align="center">
-        Beta Microsoft<br> Learn Student Ambassador<br>
+        Gold Microsoft<br> Learn Student Ambassador<br>
         <br><strong>CDMX, México</strong><br>
         <br>
         <a href="https://github.com/aleepsy">
